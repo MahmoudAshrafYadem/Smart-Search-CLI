@@ -1,0 +1,37 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# PowerShell
+*.psc1
+*.psc2
+*.psxml
+*.txt
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# System
+.DS_Store
+$RECYCLE.BIN/
+System Volume Information/
+
+# Temp files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# OS
+*.exe
+*.com
+.env
+
+# Project specific
+build/
+dist/
+*.pdb
