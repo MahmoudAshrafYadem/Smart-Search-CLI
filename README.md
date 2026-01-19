@@ -220,7 +220,7 @@ Contributions welcome! Please:
 ## 📞 Support & Contact
 
 - **GitHub Issues** - Report bugs and request features
-- **LinkedIn** - [MahmoudAshrafYadem](https://www.linkedin.com/in/mahmoudashrafyadem)
+- **LinkedIn** - [MahmoudAshrafYadem](https://www.linkedin.com/in/mahmoud-ashraf-yadem-695831201/)
 - **Email** - Available upon request
 ---
 
